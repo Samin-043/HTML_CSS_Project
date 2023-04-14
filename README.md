@@ -1,5 +1,4 @@
-# HTML_CSS_Project
+## HTML_CSS_Project
 
- Font-End = HTML+CSS
- 
- Back-End = PHP
+# Font-End = HTML, CSS
+# Back-End = PHP
